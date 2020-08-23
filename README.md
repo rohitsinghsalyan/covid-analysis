@@ -1,4 +1,4 @@
-# Basic analsis and Visualisation of Covid-19 in India
+# Basic analysis and Visualisation of Covid-19 in India
 
 This repository is to get an understanding of the geographical and temporal dsitribution of covid-19 in India
 
@@ -12,7 +12,7 @@ The codes are written in Python.
 
 ```
 Software           Version
-Python              3.6.8       
+Python              3.6.8
 ```
 
 
